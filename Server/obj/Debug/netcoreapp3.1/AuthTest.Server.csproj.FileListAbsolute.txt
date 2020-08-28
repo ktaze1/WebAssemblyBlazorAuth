@@ -1,0 +1,749 @@
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.csprojAssemblyReference.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.AssemblyInfoInputs.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.AssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorAssemblyInfo.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorAssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Client.StaticWebAssets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.StaticWebAssets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.exe
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.deps.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.runtimeconfig.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.runtimeconfig.dev.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.Views.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.Views.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Web.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Grpc.Net.Client.Web.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Client.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Shared.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Client.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\bin\Debug\netcoreapp3.1\AuthTest.Shared.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.TagHelpers.input.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.TagHelpers.output.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorCoreGenerate.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorTargetAssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.Views.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.csproj.CopyComplete
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\staticwebassets\AuthTest.Server.StaticWebAssets.Manifest.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\staticwebassets\AuthTest.Server.StaticWebAssets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.genruntimeconfig.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Client.StaticWebAssets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.StaticWebAssets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.exe
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.deps.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.runtimeconfig.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.runtimeconfig.dev.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.Views.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Server.Views.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Web.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Grpc.Net.Client.Web.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Client.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Shared.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Client.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\bin\Debug\netcoreapp3.1\AuthTest.Shared.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.csprojAssemblyReference.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.AssemblyInfoInputs.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.AssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorAssemblyInfo.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorAssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.TagHelpers.input.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.TagHelpers.output.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorCoreGenerate.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.RazorTargetAssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.Views.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.csproj.CopyComplete
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\staticwebassets\AuthTest.Server.StaticWebAssets.Manifest.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\staticwebassets\AuthTest.Server.StaticWebAssets.xml
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\AuthTest.Server.genruntimeconfig.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Server\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs

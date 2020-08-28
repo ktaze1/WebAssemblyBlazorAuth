@@ -1,0 +1,17 @@
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Shared\bin\Debug\netstandard2.1\AuthTest.Shared.deps.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Shared\bin\Debug\netstandard2.1\AuthTest.Shared.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Shared\bin\Debug\netstandard2.1\AuthTest.Shared.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.AssemblyInfoInputs.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.AssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Shared\bin\Debug\netstandard2.1\AuthTest.Shared.deps.json
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Shared\bin\Debug\netstandard2.1\AuthTest.Shared.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Shared\bin\Debug\netstandard2.1\AuthTest.Shared.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.csprojAssemblyReference.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.AssemblyInfoInputs.cache
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.AssemblyInfo.cs
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.dll
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.pdb
+C:\Users\Kaan\Documents\Cugemder\TestProjects\AuthTest - Copy\Shared\obj\Debug\netstandard2.1\AuthTest.Shared.csproj.CoreCompileInputs.cache
