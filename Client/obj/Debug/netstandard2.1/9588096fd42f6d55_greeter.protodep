@@ -1,0 +1,2 @@
+obj\Debug\netstandard2.1/Greeter.cs \
+obj\Debug\netstandard2.1/GreeterGrpc.cs: ../Shared/Contracts/greeter.proto
